@@ -699,11 +699,28 @@ person1.elder(person2)
 
 //--------------- CONSTRUCTOR FUNCTION -----------------------------------
 
+/*
 
+function Person(name,age){              // constructor function
+    this.naam  = name;
+    this.aayu = age;
+    this.work = function(){console.log("Learning JAVASCRIPT.");}
+}
 
+// let person1 = new Person('Raja',25);        // creation and initialization of CF
+// console.log(person1);
 
+// console.log("\n\n");
 
+let person2 = new Person('Raju',24);
+console.log(person2);
 
+// console.log(person1.work());
+person2.work();
+
+*/
+
+//------------------------- ARRAYS ---------------------------------------
 
 
 
